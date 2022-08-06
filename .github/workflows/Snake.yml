@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule: # execute every 6 hours
-    - cron: "* */6 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,6 +15,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: MaykonMaia
+          gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
