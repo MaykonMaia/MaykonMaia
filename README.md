@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/MaykonMaia">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MaykonMaia&show_icons=true&theme=dark&include_all_commits=true&couunt_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykonMaia&layout=compact&langs_count=16&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MaykonMaia&show_icons=true&theme=dark&include_all_commits=true&couunt_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykonMaia&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display:: inline_block"><br>
