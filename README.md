@@ -14,10 +14,8 @@
   <img align="center" alt="Maykon-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg"
 </div>
   
-  
-##
-  
-  
+  ##
+    
 <div>
   <a href="mailto:maykonvlogss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
   target="_blank"></a>
