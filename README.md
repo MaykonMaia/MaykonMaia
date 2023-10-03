@@ -13,7 +13,7 @@
   <img align="center" alt="Maykon-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="Maykon-Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
   <img align="center" alt="Maykon-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="Maykon-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
+  
 </div> -->
   
   ##
